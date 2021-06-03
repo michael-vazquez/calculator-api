@@ -1,0 +1,19 @@
+{
+  "name": "my-calculator-demo-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Express API for my-calculator-demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "msnodesqlv8": "^2.2.0",
+    "sequelize": "^6.6.2",
+    "tedious": "^11.0.8"
+  }
+}
